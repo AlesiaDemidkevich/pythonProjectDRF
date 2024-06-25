@@ -12,4 +12,7 @@ pip install -U drf-yasg
 pip install -U drf-yasg[validation]
 pip install django-filter
 
+pip install --upgrade setuptools
+pip install --upgrade distribute
+
 
